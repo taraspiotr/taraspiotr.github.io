@@ -30,6 +30,18 @@ body{
     text-decoration: none;
 }
 
+#userMail{
+    color: #bbb;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.25;
+    display: block;
+    font-family: var(--font);
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+
 #links{
     max-width: 675px;
     width: auto;
