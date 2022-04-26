@@ -1,4 +1,10 @@
 # theme: jekyll-theme-slate
+
+title: tarasiewicz.pl
+
+# Your name to show in the footer
+author: Piotr Tarasiewicz
+
 plugins:
   - jekyll-relative-links
 relative_links:
