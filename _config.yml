@@ -13,4 +13,4 @@ relative_links:
   collections: true
 include:
   - README.md
-  - posts/*.md
+#   - posts/*.md
